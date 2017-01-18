@@ -1,5 +1,5 @@
 # arbc-guac
-2017.01.18 - IM
+2017.01.18 - IM<br>
 This repo contains configuration files for my first guacamole installation
 created on Ubuntu 14.04 with Guacamole 0.98. The following two articles
 were used to get this established and to guide me to saving the configuration

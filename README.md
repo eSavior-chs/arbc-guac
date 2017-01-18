@@ -4,6 +4,7 @@ created on Ubuntu 14.04 with Guacamole 0.98. The following two articles
 were used to get this established and to guide me to saving the configuration
 files in GitHub:
 http://www.binarypower.com/2015/11/how-to-install-guacamole-098-for-ubuntu.html
+
 http://www.davewentzel.com/content/guacamole-clientless-rdp-gateway
 
 If you are setting up your own non-commerical Guacamole installation for the 

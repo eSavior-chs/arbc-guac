@@ -9,12 +9,12 @@ http://www.davewentzel.com/content/guacamole-clientless-rdp-gateway
 
 If you are setting up your own non-commerical Guacamole installation for the 
 first time and would like to contact me for guidance or to share stories, feel 
-free to contact me at ian <at sign> esavior <dot/period> info.
+free to contact me at ian {at sign} esavior {dot/period} info.
 
 If you are setting up a Guacamole server for business purposes and would like
 professional paid support from my business, feel free to contact my business
-support e-mail at help <at sign> esavior <dot/period> net or at the following
-telephone number: eight four three <dash> eight zero four <dash> eight four
+support e-mail at help {at sign} esavior {dot/period} net or at the following
+telephone number: eight four three {dash} eight zero four {dash} eight four
 one one.
 
 Thanks for reading, and God Bless!
